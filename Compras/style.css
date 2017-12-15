@@ -1,0 +1,24 @@
+thead th{
+    text-align: center;
+}
+
+tbody tr td{
+    text-align: center;
+}
+
+.color-text{
+   color: black;
+}
+
+.caixaTexto{
+    height: 155px;
+    margin-top: 10px;
+}
+
+.input-field label{
+    color: black !important;
+}
+
+.table01{
+    background-image: radial-gradient(ellipse at center, #19882c 1%, #025310 100%);
+}
